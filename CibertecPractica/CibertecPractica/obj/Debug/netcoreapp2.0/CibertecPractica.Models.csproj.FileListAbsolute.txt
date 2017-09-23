@@ -1,0 +1,8 @@
+E:\DGH\Cibertec_Practica\Cibertec_Practica\CibertecPractica\CibertecPractica\bin\Debug\netcoreapp2.0\CibertecPractica.Models.deps.json
+E:\DGH\Cibertec_Practica\Cibertec_Practica\CibertecPractica\CibertecPractica\bin\Debug\netcoreapp2.0\CibertecPractica.Models.dll
+E:\DGH\Cibertec_Practica\Cibertec_Practica\CibertecPractica\CibertecPractica\bin\Debug\netcoreapp2.0\CibertecPractica.Models.pdb
+E:\DGH\Cibertec_Practica\Cibertec_Practica\CibertecPractica\CibertecPractica\obj\Debug\netcoreapp2.0\CibertecPractica.Models.csproj.CoreCompileInputs.cache
+E:\DGH\Cibertec_Practica\Cibertec_Practica\CibertecPractica\CibertecPractica\obj\Debug\netcoreapp2.0\CibertecPractica.Models.AssemblyInfoInputs.cache
+E:\DGH\Cibertec_Practica\Cibertec_Practica\CibertecPractica\CibertecPractica\obj\Debug\netcoreapp2.0\CibertecPractica.Models.AssemblyInfo.cs
+E:\DGH\Cibertec_Practica\Cibertec_Practica\CibertecPractica\CibertecPractica\obj\Debug\netcoreapp2.0\CibertecPractica.Models.dll
+E:\DGH\Cibertec_Practica\Cibertec_Practica\CibertecPractica\CibertecPractica\obj\Debug\netcoreapp2.0\CibertecPractica.Models.pdb

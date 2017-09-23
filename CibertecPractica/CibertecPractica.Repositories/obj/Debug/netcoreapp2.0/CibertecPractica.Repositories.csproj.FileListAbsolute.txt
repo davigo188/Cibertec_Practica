@@ -1,0 +1,11 @@
+E:\DGH\Cibertec_Practica\Cibertec_Practica\CibertecPractica\CibertecPractica.Repositories\bin\Debug\netcoreapp2.0\CibertecPractica.Repositories.deps.json
+E:\DGH\Cibertec_Practica\Cibertec_Practica\CibertecPractica\CibertecPractica.Repositories\bin\Debug\netcoreapp2.0\CibertecPractica.Repositories.dll
+E:\DGH\Cibertec_Practica\Cibertec_Practica\CibertecPractica\CibertecPractica.Repositories\bin\Debug\netcoreapp2.0\CibertecPractica.Repositories.pdb
+E:\DGH\Cibertec_Practica\Cibertec_Practica\CibertecPractica\CibertecPractica.Repositories\bin\Debug\netcoreapp2.0\CibertecPractica.Models.dll
+E:\DGH\Cibertec_Practica\Cibertec_Practica\CibertecPractica\CibertecPractica.Repositories\bin\Debug\netcoreapp2.0\CibertecPractica.Models.pdb
+E:\DGH\Cibertec_Practica\Cibertec_Practica\CibertecPractica\CibertecPractica.Repositories\obj\Debug\netcoreapp2.0\CibertecPractica.Repositories.csprojResolveAssemblyReference.cache
+E:\DGH\Cibertec_Practica\Cibertec_Practica\CibertecPractica\CibertecPractica.Repositories\obj\Debug\netcoreapp2.0\CibertecPractica.Repositories.csproj.CoreCompileInputs.cache
+E:\DGH\Cibertec_Practica\Cibertec_Practica\CibertecPractica\CibertecPractica.Repositories\obj\Debug\netcoreapp2.0\CibertecPractica.Repositories.AssemblyInfoInputs.cache
+E:\DGH\Cibertec_Practica\Cibertec_Practica\CibertecPractica\CibertecPractica.Repositories\obj\Debug\netcoreapp2.0\CibertecPractica.Repositories.AssemblyInfo.cs
+E:\DGH\Cibertec_Practica\Cibertec_Practica\CibertecPractica\CibertecPractica.Repositories\obj\Debug\netcoreapp2.0\CibertecPractica.Repositories.dll
+E:\DGH\Cibertec_Practica\Cibertec_Practica\CibertecPractica\CibertecPractica.Repositories\obj\Debug\netcoreapp2.0\CibertecPractica.Repositories.pdb
